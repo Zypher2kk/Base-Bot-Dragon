@@ -57,7 +57,8 @@ node .
 ------------------
 
 ## OBS
-- a base conta com apenas 1 comando:
+- a base conta com apenas 2 comando:
+. $menu
 > $ping
 
 ## Atenção 
