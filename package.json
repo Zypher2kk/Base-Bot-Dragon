@@ -1,0 +1,43 @@
+{
+  "name": "zypher2k",
+  "version": "2.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "zypher2k",
+  "license": "ISC",
+  "dependencies": {
+    "@adiwajshing/keyed-db": "latest",
+    "@bochilteam/scraper": "latest",
+    "@hapi/boom": "latest",
+    "@whiskeysockets/baileys": "^7.0.0-rc.9",
+    "async": "latest",
+    "awesome-phonenumber": "latest",
+    "axios": "latest",
+    "cfonts": "latest",
+    "chalk": "latest",
+    "colors": "latest",
+    "crypto": "latest",
+    "crypto-digest-sync": "latest",
+    "fluent-ffmpeg": "latest",
+    "fs-extra": "latest",
+    "human-readable": "latest",
+    "jimp": "^0.16.13",
+    "jsdom": "latest",
+    "linkifyjs": "latest",
+    "moment-timezone": "latest",
+    "node-cache": "latest",
+    "node-fetch": "latest",
+    "performance-now": "latest",
+    "pino": "latest",
+    "qrcode-terminal": "latest",
+    "stream": "latest",
+    "util": "latest",
+    "youtube-yts": "latest",
+    "youtubedl-core": "latest",
+    "yt-search": "latest",
+    "ytdl-core": "latest"
+  }
+}
